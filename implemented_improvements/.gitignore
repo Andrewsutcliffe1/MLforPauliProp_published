@@ -1,0 +1,5 @@
+.venv/
+PauliPropagation.jl/
+IBM_dataset/observables_trotter_johannesburg
+IBM_dataset/observables_trotter_rueschlikon
+IBM_dataset/observables_trotter_singapore
